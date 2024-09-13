@@ -1,4 +1,4 @@
-Powerful AI App: Text Generation & Image Analysis with Gemini Models 🎉
+Powerful AI App: Text Generation & Image Analysis with Gemini Models
 I've just created a powerful app that leverages the latest Gemini models to generate text and perform image analysis. Whether you need insightful text generation or advanced image analysis, this app has you covered. Using the state-of-the-art Gemini 1.5 Pro for text and Gemini 1.0 Pro Vision for images, it seamlessly switches between tasks based on your needs.
 
 Features:
